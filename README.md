@@ -1,7 +1,7 @@
 
-Title: Customer Purchase Prediction & Effect of Micro-Numerosity
-Description:
-This project uses machine learning techniques to predict customer purchase behavior and investigate how micro-numerosity influences decision-making. It covers:
+📝 Description
+This project uses machine learning techniques to predict customer purchase behavior and investigate how micro-numerosity influences decision-making. 
+It covers:
 
 Data cleaning & preprocessing
 
