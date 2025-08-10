@@ -1,21 +1,33 @@
-# customer-purchase-prediction-micronumerosity
- Description :
 
-A machine learning project that predicts customer purchase behavior and analyzes the impact of micro-numerosity on purchasing trends. The notebook covers data preprocessing, feature engineering, model training, and evaluation, with insights on how small-scale frequency variations affect buying decisions.
-🔖 Topics/Tags
-machine-learning, customer-analytics, purchase-prediction, data-science, python, classification, micro-numerosity
+Title: Customer Purchase Prediction & Effect of Micro-Numerosity
+Description:
+This project uses machine learning techniques to predict customer purchase behavior and investigate how micro-numerosity influences decision-making. It covers:
 
-Project Overview – Purpose, scope, and what the project solves.
+Data cleaning & preprocessing
 
-Dataset – Description and source of the data used.
+Feature engineering
 
-Methodology – Data cleaning, EDA, feature selection, modeling approach.
+Model training (classification/regression)
 
-Results – Model performance metrics and micro-numerosity insights.
+Evaluation metrics
 
-Installation – How to run the notebook locally.
+Statistical significance testing for micro-numerosity effects
 
-Future Work – Possible improvements and additional experiments.
+Tech Stack:
 
-License – Usage terms if you want to open-source it.
+Python
+
+Pandas, NumPy, Scikit-learn
+
+Matplotlib, Seaborn
+
+Jupyter Notebook
+
+How to Run:
+
+Clone the repository
+
+Install dependencies (pip install -r requirements.txt)
+
+Open the Jupyter Notebook and run all cells
 
